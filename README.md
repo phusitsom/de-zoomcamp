@@ -5,4 +5,4 @@ This reposity is my own workspace for the [Data Engineering Zoomcamp course](htt
 
 ## Homework
 
-- [Week 1 Homework](https://github.com/phusitsom/de-zoomcamp/blob/main/postgres/notebooks/week1.ipynb)
+- [Week 1 Homework](https://github.com/phusitsom/de-zoomcamp/blob/main/postgres/notebooks/homework.ipynb)
